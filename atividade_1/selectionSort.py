@@ -40,4 +40,4 @@ if __name__ == "__main__":
 	for number in unsorted_array:
 		print(number) 
 		
-	print("\n Array sorted in {} seconds".format(elapsed_time))
+	print("\nArray sorted in {} seconds".format(elapsed_time))
