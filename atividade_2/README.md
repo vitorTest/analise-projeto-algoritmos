@@ -1,4 +1,4 @@
-# Ordenação por Comparação 1
+# Ordenação por Comparação 2
 
 ## Implementação dos algoritmos:
 - Merge Sort: ***mergeSort.py***
