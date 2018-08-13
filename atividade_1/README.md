@@ -8,9 +8,9 @@ Os algoritmos foram implementados em python e podem ser executados nas versões 
 
 Um dos arquivos da pasta ***instancias-num*** deve ser passado como argumento (com --file ou -f), para que os números do arquivo sejam exbidos na tela em ordem crescente. Exemplos: 
 
-`python insertionSort.py --file instancias-num/couting.txt`
+`python insertionSort.py --file ../instancias-num/couting.txt`
 
-`python selectionSort.py -f instancias-num/num.100000.4.in`
+`python selectionSort.py -f ../instancias-num/num.100000.4.in`
 
 O resultado final é exibido no terminal. 
 O tempo decorrido da execução do algoritmo é dado ao final da exibição dos números organizados. 
